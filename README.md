@@ -2,7 +2,7 @@
 
 ![TheRepositoryMine](https://github.com/user-attachments/assets/a5bfd2f8-70db-42d8-9947-6a02a4759a66)
 
-Chrome's repository mine! Practical tutorial repository to learn the basics of Git and GitHub. 
+Chrome's repository mine! Practical tutorial repository to learn the basics of Git and GitHub.
 
 ## Following the tutorial
 
